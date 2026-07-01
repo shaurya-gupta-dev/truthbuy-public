@@ -1,0 +1,79 @@
+{
+    "productInfo": {
+        "title": "Noise Airwave Max 5 Wireless Over-Ear Headphones with Adaptive Hybrid ANC (up to 50dB), HFA Tech, 80H Playtime, Dual Pairing(Calm Beige)",
+        "price": "4,999.",
+        "image": "https://m.media-amazon.com/images/I/31SLkF15ZkL.jpg",
+        "brand": "Noise",
+        "platform": "Amazon",
+        "sellerImages": [
+            "https://m.media-amazon.com/images/I/31SLkF15ZkL.jpg",
+            "https://m.media-amazon.com/images/I/51PveOcba3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+            "https://m.media-amazon.com/images/I/51qvYePklsL.jpg",
+            "https://m.media-amazon.com/images/I/415yLX1nt5L.jpg",
+            "https://m.media-amazon.com/images/I/41WlJHISSpL.jpg"
+        ],
+        "buyerImages": [
+            "https://m.media-amazon.com/images/I/71CPT+is+lL.jpg",
+            "https://m.media-amazon.com/images/I/71naNB-LcrL.jpg",
+            "https://m.media-amazon.com/images/I/71AoqYj62IL.jpg",
+            "https://m.media-amazon.com/images/I/6114lpbV98L.jpg",
+            "https://m.media-amazon.com/images/I/61VQI1m9HRL.jpg"
+        ]
+    },
+    "trustScore": 20,
+    "rating": "Avoid",
+    "sentiment": {
+        "positive": 0,
+        "neutral": 0,
+        "negative": 0
+    },
+    "fakeReviewMetrics": {
+        "risk": "N/A",
+        "flags": [
+            "No reviews available to assess fake review risk"
+        ]
+    },
+    "analysis": {
+        "pros": [
+            "Adaptive Hybrid ANC for noise cancellation",
+            "Long battery life of up to 80 hours",
+            "Dual pairing feature for convenience"
+        ],
+        "cons": [
+            "No IP rating for sweat or water resistance",
+            "No customer reviews available for assessment",
+            "Build quality and durability are unknown"
+        ],
+        "whoShouldBuy": "Audiophiles looking for long battery life and advanced noise cancellation features, but are willing to take a risk due to lack of reviews.",
+        "whoShouldAvoid": "Shoppers who rely heavily on customer reviews for purchase decisions or those seeking a product with proven durability and water resistance.",
+        "shoppingAdvice": "Given the lack of customer reviews, it's challenging to fully endorse this product, but if you're drawn to its features and are willing to take on some risk, it might be worth considering, especially if it's priced competitively."
+    },
+    "representativeReviews": {
+        "positive": "No reviews available",
+        "neutral": "No reviews available",
+        "negative": "No reviews available"
+    },
+    "alternatives": [
+        {
+            "title": "Sony WH-1000XM4",
+            "price": "₹19,990",
+            "rating": 4.6,
+            "trustScore": 90,
+            "keyDifference": "Established brand with proven quality, but significantly higher in price."
+        },
+        {
+            "title": "Bose QuietComfort 35 II",
+            "price": "₹23,990",
+            "rating": 4.5,
+            "trustScore": 88,
+            "keyDifference": "Known for comfort and sound quality, but also higher in price and without the dual pairing feature."
+        },
+        {
+            "title": "Anker Soundcore Space Q45",
+            "price": "₹7,999",
+            "rating": 4.3,
+            "trustScore": 80,
+            "keyDifference": "More affordable option with long battery life, but may lack in advanced noise cancellation features."
+        }
+    ]
+}
